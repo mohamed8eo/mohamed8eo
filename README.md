@@ -37,4 +37,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mohamed8eo&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<div align="center">
+
+![snake gif](https://github.com/mohamed8eo/mohamed8eo/blob/output/github-snake-dark.svg)
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
