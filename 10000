@@ -1,0 +1,12 @@
+: 1768297711:0;ls
+: 1768297713:0;mkd
+: 1768297729:0;mkdir .github/workflows
+: 1768297832:0;mkdir -p .github/workflows\
+
+: 1768297869:0;ls
+: 1768297875:0;ls -al
+: 1768297881:0;cd .github/workflows
+: 1768298000:0;git push 
+: 1768298010:0;git pull
+: 1768298022:0;git commit .
+: 1768298026:0;git add .
