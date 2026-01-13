@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Mohamed Elmorsy, BackEnd developer from <img src="https://flagcdn.com/w20/eg.png" alt="Egypt" /> <b>Dakhila, Egypt</b>. </p>
+<p>Welcome to my page! </br> I'm <b>Mohamed Elmorsy</b>, BackEnd developer from <img src="https://flagcdn.com/w20/eg.png" alt="Egypt" /> <b>Dakhila, Egypt</b>. </p>
 <h3>Things I code with</h3>
   <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -20,7 +20,10 @@
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
+<div aligh="center">
 ## 🌐 Socials:
+</div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elmorsy-dev/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=orange)](https://leetcode.com/u/mohamed8eo/)
 [![Website](https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white)](https://mohamed-elmorsy.vercel.app/)
@@ -29,13 +32,6 @@
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohamed8eo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mohamed8eo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed8eo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=mohamed8eo&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
 
