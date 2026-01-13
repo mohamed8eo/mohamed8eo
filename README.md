@@ -20,10 +20,15 @@
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
-<div aligh="center">
-## 🌐 Socials:
+
+
+<div align="center">
+
+![snake gif](https://github.com/mohamed8eo/mohamed8eo/blob/output/github-snake-dark.svg)
 </div>
 
+
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elmorsy-dev/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=orange)](https://leetcode.com/u/mohamed8eo/)
 [![Website](https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white)](https://mohamed-elmorsy.vercel.app/)
@@ -33,9 +38,5 @@
 
 
 
-<div align="center">
-
-![snake gif](https://github.com/mohamed8eo/mohamed8eo/blob/output/github-snake-dark.svg)
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
