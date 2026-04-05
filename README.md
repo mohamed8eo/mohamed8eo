@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Backend Developer | Node.js & NestJS
+  Backend Developer | Node.js & NestJS & GO
 </h3>
 
 <p align="center">
