@@ -2,7 +2,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> Hello, I'm Mohamed Elmorsy
 </h1>
 <h3 align="center">
-  Backend Developer | Node.js · NestJS · Go
+  Backend Developer | Go | TypeScript
 </h3>
 <p align="center">
   <img src="https://flagcdn.com/w20/eg.png" alt="Egypt" /> Dakhila, Egypt
@@ -10,15 +10,14 @@
 <hr/>
 <h3>About Me</h3>
 <p>
-  Welcome to my page! I am <b>Mohamed Elmorsy</b>, a Backend Developer focused on building scalable, maintainable, and production-ready systems.
-  I specialize in <b>Node.js</b>, <b>NestJS</b>, and <b>Go</b> and enjoy designing clean architectures and high-performance APIs.
+Computer Science student focused on backend development and building reliable, maintainable systems.
+
+I work primarily with Go and TypeScript, with experience building REST APIs, authentication systems, CLI applications, PostgreSQL-backed services, and cloud-integrated applications.
 </p>
 <hr/>
 <h3>Tech Stack</h3>
 <h4>Languages</h4>
 <p>
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
@@ -26,9 +25,7 @@
 <h4>Backend & APIs</h4>
 <p>
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-404d59?style=flat-square&logo=express&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white" />
   <img alt="sqlc" src="https://img.shields.io/badge/-sqlc-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 <h4>DevOps & Tools</h4>
@@ -36,7 +33,6 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="AWS S3" src="https://img.shields.io/badge/-AWS S3-FF9900?style=flat-square&logo=amazons3&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
